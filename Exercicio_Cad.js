@@ -1,11 +1,11 @@
-alert("Bem-vindo! A seguir pediremos que informe alguns dados.")
+alert("Bem-vindo! A seguir pediremos que informe alguns dados.");
 
-let name = prompt("Qual seu nome, piloto?")
+let name = prompt("Qual seu nome, piloto?");
 
-let age = prompt("Qual a sua idade?")
+let age = prompt("Qual a sua idade?");
 
-let ageConfirmation = confirm("Você tem " + age + " anos?")
+let ageConfirmation = confirm("Você tem " + age + " anos?");
 
-  alert("Nome: " + name)
-  alert("Idade: " + age)
-  alert("Idade confirmada: " + ageConfirmation)
+alert("Nome: " + name);
+alert("Idade: " + age);
+alert("Idade confirmada: " + ageConfirmation);

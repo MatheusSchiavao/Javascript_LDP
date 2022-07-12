@@ -1,0 +1,20 @@
+let spaceship = "Golias"
+let velocity = 80
+
+console.log(spaceship == "Golias")
+console.log(spaceship === "Golias")
+console.log(velocity == "80")
+console.log(velocity == 80)
+console.log(velocity === "80")
+console.log(velocity === 80)
+console.log(velocity != 70)
+console.log(velocity != "80")
+console.log(velocity !== "80")
+console.log(velocity > 70)
+console.log(spaceship > "Helmet")
+console.log(velocity >= 90)
+console.log(spaceship >= "Golias")
+console.log(velocity < 120)
+console.log(velocity <= 130)
+console.log(spaceship < "Helmet")
+console.log(spaceship <= "Golias")
